@@ -1,2 +1,2 @@
 # jj-playground
-Demo repo to play around with jj-vcs
+Demo repo to play around with jj-vcs!
